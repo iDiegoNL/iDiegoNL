@@ -22,6 +22,4 @@ I have a Shiba Inu named Kenji 🐕
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iDiegoNL&count_private=true)
 
-![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iDiego)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDiegoNL&layout=compact)
