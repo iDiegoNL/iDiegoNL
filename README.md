@@ -1,9 +1,8 @@
 ### Hi there 👋
 My name is Diego Relyveld. I am a back-end developer that currently lives in Amsterdam, The Netherlands. In my free time, I love programming with languages such as PHP, and also travelling around the world.
 
-#### ⌨️ I’m currently working on:
-- [UpCheck](https://upcheck.co)
-- [Viva Trucking](https://vivatrucking.com)
+<!---#### ⌨️ I’m currently working on:
+- [UpCheck](https://upcheck.co)-->
 #### 💼 Current employment:
 - *Junior Backend Developer* at [**This Is Development**](https://thisisdevelopment.nl)
 - *Lead Developer* at [**Viva Group US**](https://vivagroup.us)
