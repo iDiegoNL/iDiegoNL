@@ -5,7 +5,6 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 - [UpCheck](https://upcheck.co)-->
 #### 💼 Current employment:
 - *Junior Backend Developer* at [**This Is Development**](https://thisisdevelopment.nl)
-- *Lead Developer* at [**Viva Group US**](https://vivagroup.us)
 - *Stocker* at [**Albert Heijn**](https://ah.nl)
 #### 🌱 I’m currently learning:
 - *Software Developer MBO Niveau 4* at **ROC van Amsterdam**
