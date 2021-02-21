@@ -6,6 +6,7 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 #### 💼 Current employment:
 - *Junior Backend Developer* at [**This Is Development**](https://thisisdevelopment.nl)
 - *Stocker* at [**Albert Heijn**](https://ah.nl)
+- *IT Executive & COO* at [**Phoenix**](https://phoenixvtc.com)
 #### 🌱 I’m currently learning:
 - *Software Developer MBO Niveau 4* at **ROC van Amsterdam**
 #### 📫 How to reach me:
@@ -17,7 +18,8 @@ Amsterdam, The Netherlands 🇳🇱 **[UTC +1]**
 #### ⚡ Fun fact:
 I have a Shiba Inu named Kenji 🐕
 
-[Proud tree planter](https://tree-nation.com/profile/diego-relyveld)
+#### 🎵 My vibes:
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=iDiegoNL)](https://www.last.fm/user/iDiegoNL)
 #### 📈 Some stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iDiegoNL&count_private=true)
@@ -25,3 +27,5 @@ I have a Shiba Inu named Kenji 🐕
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDiegoNL&layout=compact)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iDiego)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iDiegoNL)
