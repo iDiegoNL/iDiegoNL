@@ -11,8 +11,7 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 #### ⌨️ I work with:
 - HTML, CSS, JS
 - Laravel (PHP)
-- Bootstrap
-- TailwindCSS
+- TailwindCSS (preferred), Bootstrap
 - Livewire
 - AlpineJS
 - VueJS
