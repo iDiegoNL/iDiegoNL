@@ -27,10 +27,10 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 - [DiegoR.nl](https://diegor.nl)
 
 #### 🌐 Country & Timezone:
-Amsterdam, The Netherlands 🇳🇱 **[UTC +2]**
+Amsterdam, the Netherlands 🇳🇱 **[UTC +2]**
 
 #### ⚡ Fun fact:
-I have a Shiba Inu named Kenji 🐕
+I have two Shiba Inus, Kenji and Yuki 🐕
 
 #### 🎵 My vibes:
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=iDiegoNL)](https://www.last.fm/user/iDiegoNL)
