@@ -5,7 +5,7 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 - [PhoenixVTC](https://phoenixvtc.com)
 
 #### 💼 Current employment:
-- *Junior Backend Developer (Laravel)* at [**This Is Development**](https://thisisdevelopment.nl)
+- *Backend Developer (Laravel)* at [**This Is Development**](https://thisisdevelopment.nl)
 - *IT Executive & Management* at [**Phoenix**](https://phoenixvtc.com)
 
 #### ⌨️ I work with:
@@ -15,11 +15,10 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 - Livewire
 - AlpineJS
 - VueJS
-- *I also adore [TALL Stack](https://tallstack.dev/)*
-
-#### 🌱 I’m currently learning:
 - NodeJS
 - Electron
+- DiscordJS
+- *I also adore [TALL Stack](https://tallstack.dev/)*
 
 #### 📫 How to reach me:
 - [me@diegor.nl](mailto:me@diegor.nl)
@@ -27,7 +26,7 @@ My name is Diego Relyveld. I am a back-end developer that currently lives in Ams
 - [DiegoR.nl](https://diegor.nl)
 
 #### 🌐 Country & Timezone:
-Amsterdam, the Netherlands 🇳🇱 **[UTC +2]**
+Amsterdam, the Netherlands 🇳🇱 **[UTC +1]**
 
 #### ⚡ Fun fact:
 I have two Shiba Inus, Kenji and Yuki 🐕
