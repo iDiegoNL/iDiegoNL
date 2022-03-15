@@ -2,12 +2,10 @@
 My name is Diego Relyveld. I am a back-end developer that currently lives in Amsterdam, The Netherlands. In my free time, I love programming with languages such as PHP, and also travelling around the world.
 
 #### ⌨️ I’m currently working on:
-- [PhoenixVTC](https://phoenixvtc.com)
 - [TruckersMP](https://truckersmp.com)
 
 #### 💼 Current employment:
 - *Backend Developer (Laravel)* at [**This Is Development**](https://thisisdevelopment.nl)
-- *IT Executive & Management* at [**Phoenix**](https://phoenixvtc.com)
 - *Web Developer* at [**TruckersMP**](https://truckersmp.com)
 
 #### ⌨️ I work with:
