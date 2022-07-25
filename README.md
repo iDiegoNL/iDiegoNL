@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! My name is Diego Relyveld. I am a developer experienced with the latest cutting-edge development tools and tech stacks such as Tailwind CSS, Livewire, Pest, all the latest Laravel features, and frameworks such as Node.js, Vue and Electron. I love well-written, reusable and well-tested code. I am proficient in designing databases, user interfaces, writing testable and reusable code, troubleshooting any small or big issues, and implementing new features based on customer or user feedback.
 
 #### 💼 Current employment:
-- *Backend Developer (Laravel)* at [**This Is Development**](https://thisisdevelopment.nl)
+- *Back-end Developer* at [**The Dev Squad**](https://thedevsquad.nl/)
 
 #### ⌨️ I work with:
 - HTML, CSS, JS
