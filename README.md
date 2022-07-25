@@ -22,7 +22,7 @@ Welcome to my GitHub profile! My name is Diego Relyveld. I am a developer experi
 - [DiegoR.nl](https://diegor.nl)
 
 #### 🌐 Country & Timezone:
-Amsterdam, the Netherlands 🇳🇱 **[UTC +2]**
+Bratislava, Slovakia 🇳🇱 **[GMT +2]**
 
 #### ⚡ Fun fact:
 I have two Shiba Inus, Kenji and Yuki 🐕
