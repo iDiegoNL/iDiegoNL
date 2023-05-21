@@ -1,8 +1,8 @@
 ### Hi there 👋
-Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel developer currently living in Slovakia. Over the past years, I constantly have been working with the latest cutting-edge development tools and tech stacks such as Tailwind CSS, Livewire, Pest, all the latest Laravel features, and frameworks such as Vue.js, Inertia.js and Livewire. Furthermore, I live by well-written, reusable and well-tested code. Designing databases and user interfaces, writing testable and reusable code, troubleshooting any small or big issues, and implementing new features based on customer or user feedback is not a problem for me.
+Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel developer currently living in Prague. Over the past years, I constantly have been working with the latest cutting-edge development tools and tech stacks such as Tailwind CSS, Livewire, Pest, all the latest Laravel features, and frameworks such as Vue.js, Inertia.js and Livewire. Furthermore, I live by well-written, reusable and well-tested code. Designing databases and user interfaces, writing testable and reusable code, troubleshooting any small or big issues, and implementing new features based on customer or user feedback is not a problem for me.
 
 #### 💼 Current employment:
-- *Back-end Developer* at [**The Dev Squad**](https://thedevsquad.nl/)
+- *Back-end Developer* at [**Digital Impact**](https://digitalimpact.nl/)
 
 #### ⌨️ I work with:
 - HTML, CSS, JS
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 - [DiegoR.nl](https://diegor.nl)
 
 #### 🌐 Country & Timezone:
-Bratislava, Slovakia 🇸🇰 **[GMT +2]**
+Prague, Czech Republic 🇨🇿 **[GMT +2]**
 
 #### ⚡ Fun fact:
 I have two Shiba Inus, Kenji and Yuki 🐕
@@ -35,7 +35,3 @@ I have two Shiba Inus, Kenji and Yuki 🐕
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iDiegoNL&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDiegoNL&layout=compact)
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iDiego)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iDiegoNL)
