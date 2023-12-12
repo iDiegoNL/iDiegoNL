@@ -3,7 +3,7 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 
 #### 💼 Current employment:
 - *Back-end Developer* at [**Piggy**](https://www.piggy.eu/)
-- *Volunteer IT Manager* at [**Awoostria**](https://awoostria.eu)
+- *Volunteer IT Manager* at [**Awoostria**](https://awoostria.at)
 
 #### ⌨️ I work with:
 - HTML, CSS, JS
