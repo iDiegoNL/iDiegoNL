@@ -23,7 +23,7 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 - [DiegoR.nl](https://diegor.nl)
 
 #### 🌐 Country & Timezone:
-Prague, Czech Republic 🇨🇿 **[GMT +2]**
+Amsterdam, The Netherlands 🇳🇱 **[GMT +1]**
 
 #### ⚡ Fun fact:
 I have two Shiba Inus, Kenji and Yuki 🐕
