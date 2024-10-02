@@ -3,7 +3,7 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 
 #### 💼 Current employment:
 - *Software Engineer* at [**Piggy**](https://www.piggy.eu/)
-- *Volunteer IT Manager* at [**Awoostria**](https://awoostria.at)
+- *Head of Technology* at [**Awoostria**](https://awoostria.at)
 
 #### ⌨️ I work with:
 - HTML, CSS, JS
@@ -11,10 +11,10 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 - TailwindCSS (preferred), Bootstrap
 - Livewire
 - AlpineJS
+- React
 - VueJS
 - NodeJS
 - Electron
-- DiscordJS
 - *I also adore [TALL Stack](https://tallstack.dev/)*
 
 #### 📫 How to reach me:
