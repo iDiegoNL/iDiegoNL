@@ -3,7 +3,9 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 
 #### 💼 Current employment:
 - *Software Engineer* at [**Leat**](https://www.leat.com)
-- *Head of Technology* at [**Awoostria**](https://awoostria.at)
+
+#### 🧡 Volunteering:
+- *Head of Technology & Board Member* at [**Awoostria**](https://awoostria.at)
 
 #### ⌨️ I work with:
 - HTML, CSS, JS
