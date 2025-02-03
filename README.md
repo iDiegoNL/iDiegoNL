@@ -31,9 +31,6 @@ Prague, Czech Republic 🇨🇿 **CE(S)T**
 #### ⚡ Fun fact:
 I have two Shiba Inus, Kenji and Yuki 🐕
 
-#### 🎵 My vibes:
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=iDiegoNL)](https://www.last.fm/user/iDiegoNL)
-
 #### 📈 Some stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iDiegoNL&count_private=true)
