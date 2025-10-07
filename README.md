@@ -4,9 +4,6 @@ Welcome to my GitHub profile! My name is Diego Relyveld, I am a Dutch Laravel de
 #### 💼 Current employment:
 - *Senior Software Engineer* at [**OnlyFans API**](http://onlyfansapi.com)
 
-#### 🧡 Volunteering:
-- *Head of Technology & Board Member* at [**Awoostria**](https://awoostria.at)
-
 #### ⌨️ I work with:
 - HTML, CSS, JS
 - Laravel (PHP)
